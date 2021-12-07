@@ -5,7 +5,7 @@
 Firmware_Diy_Core() {
 
 	Author=NJF
-	Author_URL=op.dtjr.xyz
+	Author_URL=www.dtjr.xyz
 	Default_IP="192.168.1.2"
 	Banner_Message="Powered by AutoBuild-Actions"
 
